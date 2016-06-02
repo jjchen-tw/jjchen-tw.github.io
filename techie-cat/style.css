@@ -1,5 +1,5 @@
 body{
-    background:#ffe7d7;
+    background:#fce7e7;
     color:#717171;
     font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
     font-size:14px;
@@ -8,7 +8,7 @@ body{
 div.container{
     width:1060px;
     margin:0 auto;
-    background: #fff5e5;
+    background: #faf5f6;
 }
 
 header{
@@ -166,7 +166,7 @@ header{
 
         border:1px solid #ded2c4;
         border-right:none;
-        background: #fff5e5;
+        background: #faf5f6;
     }
 
     .main .featured .featured-item:last-child{
