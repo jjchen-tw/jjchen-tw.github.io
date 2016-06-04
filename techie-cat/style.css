@@ -176,7 +176,7 @@ header{
     }
 
     .main .featured .featured-item:last-child{
-        border:1px solid #ded2c4;
+        border-right:1px solid #ded2c4;
     }
 
     .main .featured .featured-item .lnk-read-more{
