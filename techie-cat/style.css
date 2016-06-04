@@ -14,6 +14,7 @@ div.container{
 header{
     height:630px;
     background-image: url(images/background.png);
+	background-size:1050px;
 }
 
     header .header-container{
@@ -142,6 +143,7 @@ header{
         margin: -115px auto 0 auto;
         width:800px;
         position: relative;
+        height: 500px;
     }
 
 
@@ -180,16 +182,8 @@ header{
         bottom:30px;
     }
 
-    .main .featured .featured-item:hover{
-        border-top:#fd6a6a 3px solid;
-        font-weight: bold;
-        padding-top:28px;
-        cursor: pointer;
-    }
-
-    .main .featured .featured-item:hover .lnk-read-more{
-        font-weight: bold;
-        color:#fd6a6a;
+    .main .featured .featured-item .feature-item-fix-height{
+        height: 40px;
     }
 
 
@@ -278,6 +272,7 @@ header{
     background: #f9ebdb url(images/dots.jpg);
     padding-top:20px;
     padding-bottom:40px;
+    height: 150px;
 }
 
     .after-main > h3{
