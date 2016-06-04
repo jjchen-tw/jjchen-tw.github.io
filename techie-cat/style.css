@@ -165,18 +165,12 @@ header{
         position: relative;
         width:225px;
         height:170px;
-        padding: 30px 20px;
 
-        text-align: center;
-        line-height: 1.5;
-
-        border:1px solid #ded2c4;
-        border-right:none;
         background: #faf5f6;
     }
 
     .main .featured .featured-item:last-child{
-        border-right:1px solid #ded2c4;
+
     }
 
     .main .featured .featured-item .lnk-read-more{
