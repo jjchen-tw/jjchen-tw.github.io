@@ -14,6 +14,7 @@ div.container{
 header{
     height:630px;
     background-image: url(images/background.png);
+	background-size:1050px;
 }
 
     header .header-container{
@@ -51,7 +52,12 @@ header{
         border:1px solid white;
         border-radius:5px;
         padding:6px 25px;
+		cursor:pointer;
     }
+	
+	header .user span.signup:hover{
+		color:#ddd;
+	}
 
     header .search{
         position: absolute;
